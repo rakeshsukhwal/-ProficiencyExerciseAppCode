@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProficiencyExerciseApp</string>
+    <string name="details">Details</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_msg">Sorry, Unable get data from server. Please try again.</string>
+    <string name="search_hint">Type here for searching</string>
+</resources>
